@@ -40,9 +40,13 @@ Array already has a method indexOf() which returns type of number. If -1 then ob
 
 ### Syntax
 
-```arrayVar.includes(searchElement)```
+```javascript
+arrayVar.includes(searchElement)
+```
 
-```arrayVar.includes(searchElement, fromIndex)```
+```javascript
+arrayVar.includes(searchElement, fromIndex)
+```
 
 ***searchElement:*** The element to search for.
 
